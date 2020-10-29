@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/p2p-000-maven-root/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p2p-000-maven-root/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p2p-002-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p2p-003-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/p2p-004-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis/src/main/java" charset="UTF-8" />
+  </component>
+</project>

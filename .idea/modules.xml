@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2p-000-maven-root/p2p-000-maven-root.iml" filepath="$PROJECT_DIR$/p2p-000-maven-root/p2p-000-maven-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-001-maven-custom/p2p-001-maven-custom.iml" filepath="$PROJECT_DIR$/p2p-001-maven-custom/p2p-001-maven-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-002-api/p2p-002-api.iml" filepath="$PROJECT_DIR$/p2p-002-api/p2p-002-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-002-maven-api/p2p-002-maven-api.iml" filepath="$PROJECT_DIR$/p2p-002-maven-api/p2p-002-maven-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-003-provider/p2p-003-provider.iml" filepath="$PROJECT_DIR$/p2p-003-provider/p2p-003-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-004-consumer/p2p-004-consumer.iml" filepath="$PROJECT_DIR$/p2p-004-consumer/p2p-004-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+    </modules>
+  </component>
+</project>

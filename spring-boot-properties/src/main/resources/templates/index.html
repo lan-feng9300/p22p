@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<span></span>
+<h2 th:text="${pageInfo.getPageSize()}"></h2>
+<h2 th:text="${pageInfo.getFirstPage()}"></h2>
+<h2 th:text="${pageInfo.getLastPage()}"></h2>
+<h2 th:text="${pageInfo.getTotalPage()}"></h2>
+<h2 th:text="${pageInfo.getPreviousPage()}"></h2>
+<h2 th:text="${pageInfo.totalRows}"></h2>
+
+<div th:each="item:${list}">
+    <h2 th:text="|${item.getId()}--${item.getProductName()}|"></h2>
+</div>
+</body>
+</html>

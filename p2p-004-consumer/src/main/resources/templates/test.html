@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1 th:text="|当前页:${pageInfo.getCurrentPage()}|"></h1>
+    <h1 th:text="|${pageInfo.getTotalRows()}|"></h1>
+    <h1 th:text="|${pageInfo.getPageSize()}|"></h1>
+
+</body>
+</html>
